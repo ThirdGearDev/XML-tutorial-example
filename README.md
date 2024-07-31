@@ -1,3 +1,2 @@
-# XML-tutorial-example
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ThirdGearDev/XML-tutorial-example)
+This is the example of a tutorial using XML and CSS. 
+If you know that XML is a markup language, that's why it does not show.
