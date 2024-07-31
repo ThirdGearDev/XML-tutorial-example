@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body  {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: rgb(69, 18, 189);
+}
+
+i{
+  background-color:#08abfc;
+}
+
